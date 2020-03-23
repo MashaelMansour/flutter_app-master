@@ -24,7 +24,7 @@ class MyApp extends StatelessWidget {
 
 class MyHomePage extends StatelessWidget {
   static const String id = "HOMESCREEN";
-
+//var a;
   @override
   Widget build(BuildContext context) {
     return Scaffold(
