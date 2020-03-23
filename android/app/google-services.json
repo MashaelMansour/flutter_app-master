@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "201150965677",
+    "firebase_url": "https://mxzoon-c3968.firebaseio.com",
+    "project_id": "mxzoon-c3968",
+    "storage_bucket": "mxzoon-c3968.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:201150965677:android:9754a6c60b6d7b348d6324",
+        "android_client_info": {
+          "package_name": "com.example.flutterapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "201150965677-47o963sur9bsihb57mdb2ku74g609rel.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBNfimbR5AJxNXFbkjmeZ_gVCaUfFOlrCQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "201150965677-47o963sur9bsihb57mdb2ku74g609rel.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
